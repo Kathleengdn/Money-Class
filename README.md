@@ -1,1 +1,1 @@
-# MoneyIQ2
+# MoneyClass
